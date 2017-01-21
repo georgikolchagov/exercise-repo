@@ -13,5 +13,5 @@ develop branch deleted.
 
 ------------------------
 GitBash used.
-
-Creating conflict localy.
+Hello GitBash.
+Conflicts resolved.
