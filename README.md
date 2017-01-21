@@ -8,3 +8,5 @@ List of changes to follow..
 
 
 Master file edited.
+
+develop branch deleted.
