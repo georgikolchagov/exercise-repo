@@ -6,5 +6,5 @@ New text document added localy.
 
 List of changes to follow..
 
-Master file edited.
 
+Master file edited.
