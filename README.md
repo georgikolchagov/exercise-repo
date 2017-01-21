@@ -13,3 +13,5 @@ develop branch deleted.
 
 ------------------------
 GitBash used.
+Hello GitBash.
+Conflicts resolved.
